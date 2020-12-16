@@ -2,7 +2,9 @@
 #include <math.h>
 
 int main() {
-    printf("%d\n",8 % 4);/*コメント*/
-    printf("%d\n",pow(4,6));
+
+    unsigned char c = 200;
+    printf("%d\n",c);
+
     return 0;
 }
